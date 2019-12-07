@@ -1,2 +1,0 @@
-obj\Debug\net48/MessageSender.cs \
-obj\Debug\net48/MessageSenderGrpc.cs: MessageSender.proto

@@ -1,8 +1,0 @@
-C:\Users\am\projekty\BUGNet-Komunikacja\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
-C:\Users\am\projekty\BUGNet-Komunikacja\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
-C:\Users\am\projekty\BUGNet-Komunikacja\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
-C:\Users\am\projekty\BUGNet-Komunikacja\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
-C:\Users\am\projekty\BUGNet-Komunikacja\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
-C:\Users\am\projekty\BUGNet-Komunikacja\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
-C:\Users\am\projekty\BUGNet-Komunikacja\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
-C:\Users\am\projekty\BUGNet-Komunikacja\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
