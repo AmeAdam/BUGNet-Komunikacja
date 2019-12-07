@@ -15,7 +15,7 @@ namespace Server
             RemotingConfiguration.RegisterWellKnownServiceType(
                 typeof(RemotingServer), "MessageSender",
                 WellKnownObjectMode.Singleton);
-            Console.WriteLine("Server oczekuje na wiadomości");
+            Console.WriteLine("Remoting Server oczekuje na wiadomości");
             Console.ReadLine();
         }
 

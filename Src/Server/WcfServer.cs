@@ -13,7 +13,7 @@ namespace Server
             host.AddServiceEndpoint(typeof(IMessageSender), new NetTcpBinding(),
                 "net.tcp://localhost:9191/IMessageSender");
             host.Open();
-            Console.WriteLine("Server oczekuje na wiadomości");
+            Console.WriteLine("WCF Server oczekuje na wiadomości");
             Console.ReadLine();
         }
 

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Net;
-using System.Net.Sockets;
-using System.Text;
-using Contracts;
+﻿using Contracts;
 using Grpc.Core;
 
 namespace Client

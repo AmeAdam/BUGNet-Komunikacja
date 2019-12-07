@@ -13,7 +13,7 @@ namespace Server
             var ep = new IPEndPoint(IPAddress.Any, 5000);
             var receiver = new IPEndPoint(IPAddress.Any, 0);
             var udpHost = new UdpClient(ep);
-            Console.WriteLine("Server oczekuje na wiadomości");
+            Console.WriteLine("UDP Server oczekuje na wiadomości");
             while (true)
             {
                 var bytes = udpHost.Receive(ref receiver);
