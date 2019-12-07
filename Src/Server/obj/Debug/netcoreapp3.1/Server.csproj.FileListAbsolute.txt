@@ -1,0 +1,14 @@
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete

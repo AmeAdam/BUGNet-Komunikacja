@@ -1,0 +1,11 @@
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\obj\Debug\netcoreapp3.1\Klient.csprojAssemblyReference.cache
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\obj\Debug\netcoreapp3.1\Klient.AssemblyInfoInputs.cache
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\obj\Debug\netcoreapp3.1\Klient.AssemblyInfo.cs
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\bin\Debug\netcoreapp3.1\Klient.exe
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\bin\Debug\netcoreapp3.1\Klient.deps.json
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\bin\Debug\netcoreapp3.1\Klient.runtimeconfig.json
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\bin\Debug\netcoreapp3.1\Klient.runtimeconfig.dev.json
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\bin\Debug\netcoreapp3.1\Klient.dll
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\bin\Debug\netcoreapp3.1\Klient.pdb
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\obj\Debug\netcoreapp3.1\Klient.dll
+C:\Users\am\projekty\BUGNet-Komunikacja\Src\Klient\obj\Debug\netcoreapp3.1\Klient.pdb

@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Src\\Server\\Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\am\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\am\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Grpc": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Grpc.Tools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Src\\Server\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Src\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Src\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\am\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Src\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\am\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\am\\projekty\\BUGNet-Komunikacja\\Contracts\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
