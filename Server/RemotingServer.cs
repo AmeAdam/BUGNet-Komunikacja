@@ -17,6 +17,7 @@ namespace Server
                 WellKnownObjectMode.Singleton);
             Console.WriteLine("Remoting Server oczekuje na wiadomości");
             Console.ReadLine();
+            ChannelServices.UnregisterChannel(serverChannel);
         }
 
         public void Send(Message message)

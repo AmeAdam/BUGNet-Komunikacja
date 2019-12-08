@@ -8,7 +8,7 @@ namespace Client
     {
         static async Task Main(string[] args)
         {
-            var sender = new GrpcSender();
+            var sender = new GrpcCoreSender();
             sender.Send(new Message
             {
                 Subject = "Hello world 1",
